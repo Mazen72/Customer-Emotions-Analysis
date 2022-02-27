@@ -12,3 +12,4 @@ the main goal was to classifiy the positive and negative emototions from custome
 
 
 ![alt text](https://github.com/Mazen72/Customer-Emotions-Analysis/blob/main/imgs/baar.JPG?raw=true)
+ 
